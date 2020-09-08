@@ -15,4 +15,4 @@ Quality of outdoor images are often degraded under bad weather conditions by the
 ```
 
 ## Contact
-If you have any other question, you can contact me by email: kokul1984@gmail.com, kokul@vau.jfn.ac.lk
+If you have any other question, you can contact me by email: anpusuji@gmail.com , kokul@vau.jfn.ac.lk
